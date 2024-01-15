@@ -22,6 +22,8 @@ fact_pre_invoice_deductions: contains pre-invoice deductions information for eac
 
 fact_sales_monthly: contains monthly sales data for each product.
 
+b. Metadata: This includes the description of each table.
+
 ## Tasks:
 1- Check ad-hoc-requests for which the business needs insights.
 
