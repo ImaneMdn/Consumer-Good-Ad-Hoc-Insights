@@ -19,5 +19,7 @@ fact_sales_monthly: contains monthly sales data for each product.
 
 ## Tasks:
 1- Check ad-hoc-requests for which the business needs insights.
+
 2- Performe SQL queries using MySQL to answer the requests.
+
 3- Create a presentation to show the insights for the management.
